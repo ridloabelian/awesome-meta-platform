@@ -68,7 +68,6 @@ Maintained by Meta / Facebook orgs.
 - [daroczig/fbRads](https://github.com/daroczig/fbRads) - Analyze & manage Facebook ads from R (archived).
 - [social-flow](https://github.com/vishalgojha/social-flow) - Guided control plane for agentic Meta operations.
 - [laravel-facebook-ads](https://github.com/edbizarro/laravel-facebook-ads) - Facebook & Instagram Ads API for Laravel.
-- [laravel-ads-sdk](https://github.com/tmarois/laravel-ads-sdk) - PHP SDK for Google, Bing & Facebook Ads (Laravel) (archived).
 - [facebook-marketing-api-golang-sdk](https://github.com/justwatch/facebook-marketing-api-golang-sdk) - Go SDK for the Facebook Marketing API.
 - [tophatter/facebook-ruby-ads-sdk](https://github.com/tophatter/facebook-ruby-ads-sdk) - Facebook Marketing API in Ruby.
 - [zuck](https://github.com/moviepilot/zuck) - Access Facebook's ads API with Ruby (archived).
