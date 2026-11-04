@@ -105,6 +105,10 @@ Maintained by Meta / Facebook orgs.
 - [instagram-crawler](https://github.com/huaying/instagram-crawler) - Get Instagram posts/profile/hashtag data without the API.
 - [instagram-scraper](https://github.com/drawrowfly/instagram-scraper) - Scrape posts/hashtag/location data from Instagram.
 
+| Repository | Description |
+| --- | --- |
+| [social-sdk](https://github.com/opencoredev/social-sdk) | MIT-licensed TypeScript toolkit for social integrations, including Instagram. |
+
 ## Messenger Platform
 
 - [messaging-apis](https://github.com/bottenderjs/messaging-apis) - Multi-platform messaging APIs (incl. Messenger).
